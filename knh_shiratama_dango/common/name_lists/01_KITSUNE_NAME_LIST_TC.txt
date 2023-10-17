@@ -1,0 +1,255 @@
+### Created by lmk999999
+
+KITSUNE_NAME_LIST_TC = {
+	randomized = yes
+	category = "Mammalian"
+	ship_names = {
+
+		generic = {
+			山彥丸 山浦丸 宗谷 富士 松江 砥礪丸 華山丸 唐山丸 長安丸 長江丸 長壽山丸 朝海丸 香港丸
+               昌榮丸 昭德丸 生田丸 長田丸 雲洋丸 明治丸 香取丸 安州丸 日海丸 昭興丸 松榮丸 長運丸 弘玉丸
+               京城丸 平壤丸 靜海丸 浮島丸 武昌丸 長沙丸 金剛山丸 長白山丸 笠置丸
+               山東丸 河北丸 新京丸 盛京丸 大同丸 慶興丸 成興丸 瑞興丸 勝泳丸 福山丸 大興丸 千洋丸
+               萬洋丸 億洋丸 八海山丸 光島丸 神津丸 豐津丸 富津丸 兩德丸 妙見丸 新興丸 永福丸 馬佳丸 壽山丸 吉田丸
+		}
+
+		corvette = {
+		}
+
+		destroyer = {
+			峯風 澤風 沖風 灘風 矢風 羽風 汐風 秋風 夕風 太刀風 帆風 野風 波風 沼風 神風 朝風 春風 松風 旗風 追風
+			睦月 如月 弥生 卯月 皐月 水無月 文月 長月 菊月 三日月 望月 夕月
+			吹雪 白雪 初雪 深雪 叢雲 東雲 薄雲 白雲 磯波 浦波 綾波 敷波 朝霧
+			夕霧 天霧 狭霧 朧 漣 潮 暁 響 雷 電 初春 子日 若葉 初霜 有明 夕暮
+			白露 時雨 村雨 夕立 春雨 五月雨 涼風 疾風 朝凪 夕凪
+			朝潮 大潮 満潮 荒潮 朝雲 山雲 夏雲 峯雲 霞 霰 陽炎 不知火 黑潮 親潮 早潮 夏潮 初風
+			雪風 天津風 時津風 浦風 磯風 浜風 谷風 野分 嵐 萩風 舞風 秋雲 島風
+			夕雲 巻雲 風雲 長波 巻波 高波 大波 清波 玉波 涼波 藤波 早波 浜波 沖波 岸波 朝霜 早霜 秋霜
+			清霜 秋月照月 涼月 初月 新月 若月 霜月 冬月 初月 宵月 夏月 満月 花月
+		}
+
+		cruiser = {
+			平戶 天龍 龍田 球磨 多摩 北上 大井 木曾 長良 五十鈴 名取 由良 鬼怒 阿武隈 那珂 川内 神通 加古
+			平夕張 最上 三隈 鈴谷 熊野 香取 鹿島 香椎 橿原 阿賀野 能代 矢矧
+			平酒匂 大淀 五百島 八十島 淀 利根 筑摩 筑波 綾瀬 水無瀬 仁淀 高瀬 岩瀬 名張 天塩 石狩 黑部 磐城
+			平大島 宇治 筑紫 畝傍 橋立 嚴島 松島 鳴瀬 廣瀨 渡良瀬 柳瀬 七瀨
+			平黑瀬 百瀬 平瀬 長瀬 初瀬 秋津洲 和泉 須磨 明石 瑞穂 三原 千早 劍崎 高崎 古鷹 加古 青葉 衣笠 那智
+			平羽黑 妙高 足柄 高雄 愛宕 摩耶 鳥海 阿蘇 津輕 宗谷 浅間 常盤
+			平吾妻 出雲 磐手 新高 高千穗 龍王 鞍馬 六甲 妙義 高砂 吉野 岩木
+		}
+
+		battleship = {
+			朝日 明石 關東 勞山 青島 大和 武藏 信濃 甲斐 紀伊 尾張 播磨 石見 薩摩 安芸 加賀 摂津 河內 扶桑 山城
+               伊勢 日向 長門 陸奧 土佐 浅間 相模 周防 肥前 丹後 壹岐 駿河 近江 美濃 出羽 但馬
+               筑後 豐前 豐後 伊予 三河 飛驅 越後 上総 常陸 讚岐 筑波 生馬 伊吹 鞍馬 金剛 比叡
+               榛名 霧島 天城 赤城 愛宕 高雄 龍驤 蒼龍 飛龍 翔鶴 瑞鶴 隼鷹 飛鷹 大鳳 雲龍
+               葛城 笠置 阿蘇 生馬 鳳翔 千歲 千代田 瑞鳳 祥鳳 龍鳳 雲鷹 沖鷹 神鷹 海鷹 瑞龍 景龍 祥龍 祐鳳
+               白鳳 海鳳 雷龍 海鳳 仁鶴 光鶴 松鶴 朝鷹 山鷹 龍鷹 鎌鷹 翔鷹 海龍 翔龍 飛天 震天
+		}
+
+		titan = {
+			伊邪那岐 伊邪那美命 高天原 天照 月讀 蛭兒 素戔嗚尊 迦具土
+		}
+
+		colossus = {
+			伊邪那岐 伊邪那美命 高天原 天照 月讀 蛭兒 素戔嗚尊 迦具土
+		}
+
+		science = {
+		}
+
+		colonizer = {
+		}
+
+		constructor = {
+		}
+
+		transport = {
+		}
+
+		military_station_small = {
+		}
+
+		ion_cannon = {
+			伊邪那岐 伊邪那美命 高天原 天照 月讀 蛭兒 素戔嗚尊 迦具土
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+				白玉軍 黑蜜軍 羽二重軍 桃山軍 三笠山軍 森軍 橋本軍 小川軍 長谷川軍 井上軍 藤井軍 入江軍
+			}
+		sequential_name = "第 %O% 艦隊"
+	}
+
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "%O% 機械裝甲守備軍團"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "%O% 機械裝甲軍團I"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "%O% 機械裝甲軍團II"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "%O% 機械裝甲軍團III"
+		}
+
+		defense_army = {
+			sequential_name = "%O% 守備軍團"
+		}
+
+		assault_army = {
+			sequential_name = "%O% 進攻軍團"
+		}
+
+		slave_army = {
+			sequential_name = "%O% 奴隷軍團"
+		}
+
+		undead_army = {
+			sequential_name = "%O% 不死軍團"
+		}
+
+		clone_army = { 
+			sequential_name = "%O% 複製軍團"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% 機械化軍團"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "%O% 機械化守備軍團"
+		}
+
+		psionic_army = { 
+			sequential_name = "%O% 靈能部隊"
+		}
+
+		xenomorph_army = {
+			sequential_name = "%O% 異形部隊"
+		}
+
+		gene_warrior_army = {
+			sequential_name = "%O% 基因改良部隊"
+		}
+
+		occupation_army = {
+			sequential_name = "%O% 占領部隊"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "%O% 機械化占領部隊"
+		}
+
+		primitive_army = {
+			sequential_name = "%O% 原始時代軍團"
+		}
+		industrial_army = {
+			sequential_name = "%O% 工業時代軍團"
+		}
+		postatomic_army = {
+			sequential_name = "%O% 原子時代軍團"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				白玉大樹 黑蜜大樹 羽二重大樹 桃山大樹 三笠山大樹 森大樹 橋本大樹 小川大樹 長谷川大樹 井上大樹 藤井大樹 入江大樹
+				}
+		}
+
+		pc_desert = {
+			names = {
+			}
+		}
+
+		pc_tropical = {
+			names = {
+			}
+		}
+
+		pc_arid = {
+			names = {
+			}
+		}
+
+		pc_continental = {
+			names = {
+			}
+		}
+
+		pc_ocean = {
+			names = {
+			}
+		}
+
+		pc_tundra = {
+			names = {
+			}
+		}
+
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				# 白玉狐 黒蜜音音 桃山鈴音 雪見 羽二重二重兔 三笠山耳見 一花 鈴 紅葉
+				}
+
+			# Always combined with a second name
+			first_names_male = {
+				大輔 翔平 亮 達也 直人 直樹 大地 雄太 亮太 健人 和也 裕太 優 卓也 大介 健太郎 恭平 貴大 康平 大輝 拓馬 大貴 裕也 翔太郎
+                    光 雄大 直也 誠 健 樹 祐太 洋平 航 和樹 遼 匠 裕介 一馬 優太 裕貴 駿介 智也 亮介 修平 拓哉 祐介 勇太 剛 良太 一輝 徹
+                    貴之 哲也 悠 裕樹 純 拓真 圭佑 浩平 太一 俊 祐貴 巧 祐輔 直哉 晃 拓弥 優樹 竜也 圭祐 祥平 貴史 悟 佳祐 宏樹 純一 悠介 智之
+				甚衛門
+				}
+			first_names_female = {
+				榛名 桜 美咲 葵 美羽 美優 凛 七海 唯 比奈 穂乃果 莉子 有菜 小春 日向 芽衣 咲 美香 日和 結咲
+				志濃里 夏希 彩音 嘉穂 華 百花 陽毬 遊芽 碧 紀子 和巳 貴美子 貴子 百合香 冥夜 悠陽 美穗 真穗 詩穗 千代美
+				慧 翠 小由 暦 駿河 黑儀 明日香 飛鳥 和 忍 梢 留美子 ゆかり 紫 涼花 春乃 春香 遥 螢 美久 美苑 妙子 雪乃 梨里 蒔絵
+				狐 音音 雪見 鈴音 二重兔 紅葉 耳見 一花 鈴
+				}
+
+			# Always combined with a first name
+			second_names = {
+				白玉 黑蜜 桃山 羽二重 三笠山 森 橋本 小川 長谷川 井上 藤井 入江
+				}
+
+			regnal_first_names = {
+				榛名 桜 美咲 葵 美羽 美優 凛 七海 唯 比奈 穂乃果 莉子 有菜 小春 日向 芽衣 咲 美香 日和 結咲
+				志濃里 夏希 彩音 嘉穂 華 百花 陽毬 遊芽 碧 紀子 和巳 貴美子 貴子 百合香 冥夜 悠陽 美穗 真穗 詩穗 千代美
+				慧 翠 小由 暦 駿河 黑儀 明日香 飛鳥 和 忍 梢 留美子 ゆかり 紫 涼花 春乃 春香 遥 螢 美久 美苑 妙子 雪乃 梨里 蒔絵
+				狐 音音 雪見 鈴音 二重兔 紅葉 耳見 一花 鈴
+				}
+
+			regnal_second_names = {
+				白玉 黑蜜 羽二重
+				}
+		}
+	}
+}

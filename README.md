@@ -3,6 +3,8 @@
 ## 前言
 本 GitHub 頁面用於將本模組進行開源，讓對模組製作有興趣的人可以引用、參考。
 
+模組 Steam 工作坊網址如右：https://steamcommunity.com/sharedfiles/filedetails/?id=1868712395
+
 所有的圖片素材都來自於「室埴ポコ」，是我喜歡的繪師之一。
 如果您覺得角色很可愛歡迎追蹤以下連結！！！
 

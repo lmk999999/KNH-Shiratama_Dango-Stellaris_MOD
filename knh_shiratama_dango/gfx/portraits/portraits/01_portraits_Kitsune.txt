@@ -1,0 +1,261 @@
+portraits = {
+			
+
+Kitsune_00 = {texturefile = "gfx/models/portraits/KuromiNene/Original/01.dds"}
+
+ShiratamaKitsune_01 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/01.dds"}
+ShiratamaKitsune_02 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/02.dds"}
+ShiratamaKitsune_03 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/03.dds"}
+ShiratamaKitsune_04 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/04.dds"}
+ShiratamaKitsune_05 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/05.dds"}
+ShiratamaKitsune_06 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/06.dds"}
+ShiratamaKitsune_07 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/07.dds"}
+ShiratamaKitsune_08 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/08.dds"}
+ShiratamaKitsune_09 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/09.dds"}
+ShiratamaKitsune_10 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/10.dds"}
+ShiratamaKitsune_11 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/11.dds"}
+ShiratamaKitsune_12 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/12.dds"}
+ShiratamaKitsune_13 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/13.dds"}
+ShiratamaKitsune_14 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/14.dds"}
+ShiratamaKitsune_Armor_00 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Armor/00.dds"}
+KuromiNene_01 = {texturefile = "gfx/models/portraits/KuromiNene/Original/01.dds"}
+KuromiNene_02 = {texturefile = "gfx/models/portraits/KuromiNene/Original/02.dds"}
+KuromiNene_03 = {texturefile = "gfx/models/portraits/KuromiNene/Original/03.dds"}
+KuromiNene_04 = {texturefile = "gfx/models/portraits/KuromiNene/Original/04.dds"}
+KuromiNene_05 = {texturefile = "gfx/models/portraits/KuromiNene/Original/05.dds"}
+KuromiNene_06 = {texturefile = "gfx/models/portraits/KuromiNene/Original/06.dds"}
+KuromiNene_07 = {texturefile = "gfx/models/portraits/KuromiNene/Original/07.dds"}
+MomoyamaTsutsune_01 = {texturefile = "gfx/models/portraits/MomoyamaTsutsune/Original/01.dds"}
+MomoyamaTsutsune_02 = {texturefile = "gfx/models/portraits/MomoyamaTsutsune/Original/02.dds"}
+MomoyamaTsutsune_03 = {texturefile = "gfx/models/portraits/MomoyamaTsutsune/Original/03.dds"}
+MomoyamaTsutsune_04 = {texturefile = "gfx/models/portraits/MomoyamaTsutsune/Original/04.dds"}
+MikasayamaMimimi_01 = {texturefile = "gfx/models/portraits/MikasayamaMimimi/Original/01.dds"}
+MikasayamaMimimi_02 = {texturefile = "gfx/models/portraits/MikasayamaMimimi/Original/02.dds"}
+MikasayamaMimimi_03 = {texturefile = "gfx/models/portraits/MikasayamaMimimi/Original/03.dds"}
+Yukimi_01 = {texturefile = "gfx/models/portraits/Yukimi/Original/01.dds"}
+Yukimi_02 = {texturefile = "gfx/models/portraits/Yukimi/Original/02.dds"}
+Yukimi_03 = {texturefile = "gfx/models/portraits/Yukimi/Original/03.dds"}
+Yukimi_04 = {texturefile = "gfx/models/portraits/Yukimi/Original/04.dds"}
+Yukimi_05 = {texturefile = "gfx/models/portraits/Yukimi/Original/05.dds"}
+Yukimi_06 = {texturefile = "gfx/models/portraits/Yukimi/Original/06.dds"}
+HabutaeUsagi_01 = {texturefile = "gfx/models/portraits/HabutaeUsagi/Original/01.dds"}
+HabutaeUsagi_02 = {texturefile = "gfx/models/portraits/HabutaeUsagi/Original/02.dds"}
+
+}	
+
+portrait_groups = {
+	
+	Kitsune = {	
+		default = Kitsune_00
+        
+		game_setup = {
+			add = {
+				trigger = {ruler = { always = yes }}
+				portraits = {
+					ShiratamaKitsune_01
+					ShiratamaKitsune_02
+					ShiratamaKitsune_03
+					ShiratamaKitsune_04
+					ShiratamaKitsune_05
+					ShiratamaKitsune_06
+					ShiratamaKitsune_07
+					ShiratamaKitsune_08
+					ShiratamaKitsune_09
+					ShiratamaKitsune_10
+					ShiratamaKitsune_11
+					ShiratamaKitsune_12
+					ShiratamaKitsune_13
+					ShiratamaKitsune_14
+					ShiratamaKitsune_Armor_00
+					KuromiNene_01
+					KuromiNene_02
+					KuromiNene_03
+					KuromiNene_04
+					KuromiNene_05
+					KuromiNene_06
+					KuromiNene_07
+					MomoyamaTsutsune_01
+					MomoyamaTsutsune_02
+					MomoyamaTsutsune_03
+					MomoyamaTsutsune_04
+					MikasayamaMimimi_01
+					MikasayamaMimimi_02
+					MikasayamaMimimi_03
+					Yukimi_01
+					Yukimi_02
+					Yukimi_03
+					Yukimi_04
+					Yukimi_05
+					Yukimi_06
+					HabutaeUsagi_01
+					HabutaeUsagi_02
+				}}
+	}
+        species = { 
+			add = {
+				portraits = {
+					ShiratamaKitsune_01
+					ShiratamaKitsune_02
+					ShiratamaKitsune_03
+					ShiratamaKitsune_04
+					ShiratamaKitsune_05
+					ShiratamaKitsune_06
+					ShiratamaKitsune_07
+					ShiratamaKitsune_08
+					ShiratamaKitsune_09
+					ShiratamaKitsune_10
+					ShiratamaKitsune_11
+					ShiratamaKitsune_12
+					ShiratamaKitsune_13
+					ShiratamaKitsune_14
+					ShiratamaKitsune_Armor_00
+					KuromiNene_01
+					KuromiNene_02
+					KuromiNene_03
+					KuromiNene_04
+					KuromiNene_05
+					KuromiNene_06
+					KuromiNene_07
+					MomoyamaTsutsune_01
+					MomoyamaTsutsune_02
+					MomoyamaTsutsune_03
+					MomoyamaTsutsune_04
+					MikasayamaMimimi_01
+					MikasayamaMimimi_02
+					MikasayamaMimimi_03
+					Yukimi_01
+					Yukimi_02
+					Yukimi_03
+					Yukimi_04
+					Yukimi_05
+					Yukimi_06
+					HabutaeUsagi_01
+					HabutaeUsagi_02
+				}}}
+		pop = {
+			add = {
+				portraits = {
+					ShiratamaKitsune_01
+					ShiratamaKitsune_02
+					ShiratamaKitsune_03
+					ShiratamaKitsune_04
+					ShiratamaKitsune_05
+					ShiratamaKitsune_06
+					ShiratamaKitsune_07
+					ShiratamaKitsune_08
+					ShiratamaKitsune_09
+					ShiratamaKitsune_10
+					ShiratamaKitsune_11
+					ShiratamaKitsune_12
+					ShiratamaKitsune_13
+					ShiratamaKitsune_14
+					ShiratamaKitsune_Armor_00
+					KuromiNene_01
+					KuromiNene_02
+					KuromiNene_03
+					KuromiNene_04
+					KuromiNene_05
+					KuromiNene_06
+					KuromiNene_07
+					MomoyamaTsutsune_01
+					MomoyamaTsutsune_02
+					MomoyamaTsutsune_03
+					MomoyamaTsutsune_04
+					MikasayamaMimimi_01
+					MikasayamaMimimi_02
+					MikasayamaMimimi_03
+					Yukimi_01
+					Yukimi_02
+					Yukimi_03
+					Yukimi_04
+					Yukimi_05
+					Yukimi_06
+					HabutaeUsagi_01
+					HabutaeUsagi_02
+				}}}
+                
+                #leader scope
+		leader = {
+			
+            add = {trigger = {always = yes}
+				portraits = {
+					ShiratamaKitsune_01
+					ShiratamaKitsune_02
+					ShiratamaKitsune_03
+					ShiratamaKitsune_04
+					ShiratamaKitsune_05
+					ShiratamaKitsune_06
+					ShiratamaKitsune_07
+					ShiratamaKitsune_08
+					ShiratamaKitsune_09
+					ShiratamaKitsune_10
+					ShiratamaKitsune_11
+					ShiratamaKitsune_12
+					ShiratamaKitsune_13
+					ShiratamaKitsune_14
+					ShiratamaKitsune_Armor_00
+					KuromiNene_01
+					KuromiNene_02
+					KuromiNene_03
+					KuromiNene_04
+					KuromiNene_05
+					KuromiNene_06
+					KuromiNene_07
+					MomoyamaTsutsune_01
+					MomoyamaTsutsune_02
+					MomoyamaTsutsune_03
+					MomoyamaTsutsune_04
+					MikasayamaMimimi_01
+					MikasayamaMimimi_02
+					MikasayamaMimimi_03
+					Yukimi_01
+					Yukimi_02
+					Yukimi_03
+					Yukimi_04
+					Yukimi_05
+					Yukimi_06
+					HabutaeUsagi_01
+					HabutaeUsagi_02
+				}}}
+                
+		ruler = {
+            add = {trigger = {always = yes}
+				portraits = {
+					ShiratamaKitsune_01
+					ShiratamaKitsune_02
+					ShiratamaKitsune_03
+					ShiratamaKitsune_04
+					ShiratamaKitsune_05
+					ShiratamaKitsune_06
+					ShiratamaKitsune_07
+					ShiratamaKitsune_08
+					ShiratamaKitsune_09
+					ShiratamaKitsune_10
+					ShiratamaKitsune_11
+					ShiratamaKitsune_12
+					ShiratamaKitsune_13
+					ShiratamaKitsune_14
+					ShiratamaKitsune_Armor_00
+					KuromiNene_01
+					KuromiNene_02
+					KuromiNene_03
+					KuromiNene_04
+					KuromiNene_05
+					KuromiNene_06
+					KuromiNene_07
+					MomoyamaTsutsune_01
+					MomoyamaTsutsune_02
+					MomoyamaTsutsune_03
+					MomoyamaTsutsune_04
+					MikasayamaMimimi_01
+					MikasayamaMimimi_02
+					MikasayamaMimimi_03
+					Yukimi_01
+					Yukimi_02
+					Yukimi_03
+					Yukimi_04
+					Yukimi_05
+					Yukimi_06
+					HabutaeUsagi_01
+					HabutaeUsagi_02
+				}}}}}

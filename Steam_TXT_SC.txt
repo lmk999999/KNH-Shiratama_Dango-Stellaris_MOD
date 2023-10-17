@@ -1,0 +1,40 @@
+[h1]此版本模坁不会生成随机敌方 NPC。[/h1]
+
+[h1]《简介》[/h1]
+所有的图片素材都来自于「室埴ポコ」，是我喜欢的绘师之一。
+如果您觉得角色很可爱欢迎追踪以下链接！！！
+
+[url=https://twitter.com/poco__]室埴ポコ Twitter[/url]
+[url=https://poco-m.fanbox.cc/]室埴ポコ Fanbox[/url]
+[url=https://www.pixiv.net/member.php?id=76266]室埴ポコ Pixiv[/url]
+[url=http://asahiage.sakura.ne.jp/]あさひあげ（已经废弃）[/url]
+
+[h1]《注意》[/h1]
+[olist]
+    [*] 本人制作这个模块纯粹是因为对角色的喜爱，但同时本人不具有图片的任何权力，因此若是原绘师提出抗议，本人将会撤下此模块。
+    [*] 因为技术以及版权问题，本人模块不提供高清晰度的版本，4K 显示器的用户请自行斟酌。
+    [*] 因为本模块有本人技术训练之意味，所以这模块会十分阳春。
+[/olist]
+
+[h1]十分抱歉，因为个人时间因素，无法维护此项目，最终导致此项目废弃。对于各位使用者，在此十分抱歉。[/h1]
+
+[h1]《内容》[/h1]
+[list]
+    [*] 07 位角色。
+    [*] 11 个旗帜。
+    [*] 专属的名称列表。
+    [*] 内建中文（繁体）、英文、日文。
+[/list]
+
+[h1]《更新笔记》[/h1]
+最近更新日期：2023/10/16
+[list]
+    [*] 纯粹因为最近生活碰壁，外加有点时间所以进行了更新。
+    [*] 重新修改了写法，对 MOD 进行了轻量化。
+    [*] 内涵角色进行小幅度了修改。
+    [*] 支援日文。
+[/list]
+
+[h1]《工具》[/h1]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1321800257]Reference material[/url]
+[url=https://www.aconvert.com/tw/image/psd-to-dds/]psd-to-dds[/url]

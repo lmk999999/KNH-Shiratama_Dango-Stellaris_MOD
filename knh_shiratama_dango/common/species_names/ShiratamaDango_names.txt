@@ -1,0 +1,193 @@
+ShiratamaDangoClass = {
+     1 = {
+          name = KITSUNE_NAME
+          plural = KITSUNE_NAME
+          home_planet = KITSUNE_NAME_STAR
+          home_system = KITSUNE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     2 = {
+          name = SHIRATAMA_KITSUNE_NAME
+          plural = SHIRATAMA_KITSUNE_NAME
+          home_planet = SHIRATAMA_KITSUNE_NAME_STAR
+          home_system = SHIRATAMA_KITSUNE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     3 = {
+          name = KUROMI_NENE_NAME
+          plural = KUROMI_NENE_NAME
+          home_planet = KUROMI_NENE_NAME_STAR
+          home_system = KUROMI_NENE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     4 = {
+          name = MOMOYAMA_NAME
+          plural = MOMOYAMA_NAME
+          home_planet = KITSUNE_NAME_STAR
+          home_system = KITSUNE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     5 = {
+          name = MIKASAYAMA_NAME
+          plural = MIKASAYAMA_NAME
+          home_planet = KITSUNE_NAME_STAR
+          home_system = KITSUNE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     6 = {
+          name = YUKIMI_NAME
+          plural = YUKIMI_NAME
+          home_planet = KITSUNE_NAME_STAR
+          home_system = KITSUNE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     7 = {
+          name = USAGI_NAME
+          plural = USAGI_NAME
+          home_planet = USAGI_NAME_STAR
+          home_system = USAGI_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     8 = {
+          name = MIO_NAME
+          plural = MIO_NAME
+          home_planet = NAVY_NAME_STAR
+          home_system = NAVY_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+}
+
+ShiratamaDangoUL = {
+     1 = {
+          name = KITSUNE_NAME
+          plural = KITSUNE_NAME
+          home_planet = KITSUNE_NAME_STAR
+          home_system = KITSUNE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     2 = {
+          name = KITSUNE_NAME
+          plural = KITSUNE_NAME
+          home_planet = KITSUNE_NAME_STAR
+          home_system = KITSUNE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     3 = {
+          name = KITSUNE_NAME
+          plural = KITSUNE_NAME
+          home_planet = KITSUNE_NAME_STAR
+          home_system = KITSUNE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     4 = {
+          name = SHIRATAMA_KITSUNE_NAME
+          plural = SHIRATAMA_KITSUNE_NAME
+          home_planet = SHIRATAMA_KITSUNE_NAME_STAR
+          home_system = SHIRATAMA_KITSUNE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     5 = {
+          name = KUROMI_NENE_NAME
+          plural = KUROMI_NENE_NAME
+          home_planet = KUROMI_NENE_NAME_STAR
+          home_system = KUROMI_NENE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     6 = {
+          name = MOMOYAMA_NAME
+          plural = MOMOYAMA_NAME
+          home_planet = KITSUNE_NAME_STAR
+          home_system = KITSUNE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     7 = {
+          name = USAGI_NAME
+          plural = USAGI_NAME
+          home_planet = USAGI_NAME_STAR
+          home_system = USAGI_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     8 = {
+          name = MIO_NAME
+          plural = MIO_NAME
+          home_planet = NAVY_NAME_STAR
+          home_system = NAVY_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+}
+
+ShiratamaDangoSummer = {
+     1 = {
+          name = KITSUNE_NAME
+          plural = KITSUNE_NAME
+          home_planet = KITSUNE_NAME_STAR
+          home_system = KITSUNE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     2 = {
+          name = KITSUNE_NAME
+          plural = KITSUNE_NAME
+          home_planet = KITSUNE_NAME_STAR
+          home_system = KITSUNE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     3 = {
+          name = SHIRATAMA_KITSUNE_NAME
+          plural = SHIRATAMA_KITSUNE_NAME
+          home_planet = SHIRATAMA_KITSUNE_NAME_STAR
+          home_system = SHIRATAMA_KITSUNE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     4 = {
+          name = KUROMI_NENE_NAME
+          plural = KUROMI_NENE_NAME
+          home_planet = KUROMI_NENE_NAME_STAR
+          home_system = KUROMI_NENE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     5 = {
+          name = MIO_NAME
+          plural = MIO_NAME
+          home_planet = NAVY_NAME_STAR
+          home_system = NAVY_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+}
+
+NAVY = {
+     1 = {
+          name = KITSUNE_NAME
+          plural = KITSUNE_NAME
+          home_planet = KITSUNE_NAME_STAR
+          home_system = KITSUNE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     2 = {
+          name = KITSUNE_NAME
+          plural = KITSUNE_NAME
+          home_planet = KITSUNE_NAME_STAR
+          home_system = KITSUNE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     3 = {
+          name = SHIRATAMA_KITSUNE_NAME
+          plural = SHIRATAMA_KITSUNE_NAME
+          home_planet = SHIRATAMA_KITSUNE_NAME_STAR
+          home_system = SHIRATAMA_KITSUNE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     4 = {
+          name = KUROMI_NENE_NAME
+          plural = KUROMI_NENE_NAME
+          home_planet = KUROMI_NENE_NAME_STAR
+          home_system = KUROMI_NENE_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+     5 = {
+          name = MIO_NAME
+          plural = MIO_NAME
+          home_planet = NAVY_NAME_STAR
+          home_system = NAVY_NAME_STARSYS
+          name_list = "KITSUNE_NAME_LIST_EN"
+          }
+}

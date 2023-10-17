@@ -1,0 +1,57 @@
+portraits = {
+
+MikasayamaMimimi_00 = {texturefile = "gfx/models/portraits/MikasayamaMimimi/Original/01.dds"}
+
+MikasayamaMimimi_01 = {texturefile = "gfx/models/portraits/MikasayamaMimimi/Original/01.dds"}
+MikasayamaMimimi_02 = {texturefile = "gfx/models/portraits/MikasayamaMimimi/Original/02.dds"}
+MikasayamaMimimi_03 = {texturefile = "gfx/models/portraits/MikasayamaMimimi/Original/03.dds"}
+
+
+}	
+
+portrait_groups = {
+	
+	MikasayamaMimimi = {	
+		default = MikasayamaMimimi_00
+        
+		game_setup = {
+			add = {
+				trigger = {ruler = { always = yes }}
+				portraits = {
+					MikasayamaMimimi_01
+					MikasayamaMimimi_02
+					MikasayamaMimimi_03
+				}}
+	}
+        species = { 
+			add = {
+				portraits = {
+					MikasayamaMimimi_01
+					MikasayamaMimimi_02
+					MikasayamaMimimi_03
+				}}}
+		pop = {
+			add = {
+				portraits = {
+					MikasayamaMimimi_01
+					MikasayamaMimimi_02
+					MikasayamaMimimi_03
+				}}}
+                
+                #leader scope
+		leader = {
+			
+            add = {trigger = {always = yes}
+				portraits = {
+					MikasayamaMimimi_01
+					MikasayamaMimimi_02
+					MikasayamaMimimi_03
+				}}}
+                
+		ruler = {
+            add = {trigger = {always = yes}
+				portraits = {
+					MikasayamaMimimi_01
+					MikasayamaMimimi_02
+					MikasayamaMimimi_03
+				}}}}}

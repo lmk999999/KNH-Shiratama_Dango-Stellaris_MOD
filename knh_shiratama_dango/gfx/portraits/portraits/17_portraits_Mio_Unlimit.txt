@@ -1,0 +1,160 @@
+portraits = {
+
+Mio_Unlimit_00 = {texturefile = "gfx/models/portraits/Mio/Original/02.dds"}
+
+Mio_01 = {texturefile = "gfx/models/portraits/Mio/Original/01.dds"}
+Mio_02 = {texturefile = "gfx/models/portraits/Mio/Original/02.dds"}
+Mio_03 = {texturefile = "gfx/models/portraits/Mio/Original/03.dds"}
+Mio_04 = {texturefile = "gfx/models/portraits/Mio/Original/04.dds"}
+Mio_05 = {texturefile = "gfx/models/portraits/Mio/Original/05.dds"}
+Mio_06 = {texturefile = "gfx/models/portraits/Mio/Original/06.dds"}
+Mio_07 = {texturefile = "gfx/models/portraits/Mio/Original/07.dds"}
+
+Mio_Armor_01 = {texturefile = "gfx/models/portraits/Mio/Armor/01.dds"}
+Mio_Armor_02 = {texturefile = "gfx/models/portraits/Mio/Armor/02.dds"}
+Mio_Armor_03 = {texturefile = "gfx/models/portraits/Mio/Armor/03.dds"}
+Mio_Armor_04 = {texturefile = "gfx/models/portraits/Mio/Armor/04.dds"}
+Mio_Armor_05 = {texturefile = "gfx/models/portraits/Mio/Armor/05.dds"}
+Mio_Armor_06 = {texturefile = "gfx/models/portraits/Mio/Armor/06.dds"}
+Mio_Armor_07 = {texturefile = "gfx/models/portraits/Mio/Armor/07.dds"}
+Mio_Armor_08 = {texturefile = "gfx/models/portraits/Mio/Armor/08.dds"}
+Mio_Armor_09 = {texturefile = "gfx/models/portraits/Mio/Armor/09.dds"}
+
+Mio_Summer_01 = {texturefile = "gfx/models/portraits/Mio/Summer/01.dds"}
+Mio_Summer_02 = {texturefile = "gfx/models/portraits/Mio/Summer/02.dds"}
+Mio_Summer_03 = {texturefile = "gfx/models/portraits/Mio/Summer/03.dds"}
+Mio_Summer_04 = {texturefile = "gfx/models/portraits/Mio/Summer/04.dds"}
+
+}	
+
+portrait_groups = {
+	
+	Mio_Unlimit = {	
+		default = Mio_Unlimit_00
+        
+		game_setup = {
+			add = {
+				trigger = {ruler = { always = yes }}
+				portraits = {
+					Mio_01
+					Mio_02
+					Mio_03
+					Mio_04
+					Mio_05
+					Mio_06
+					Mio_07
+					Mio_Armor_01
+					Mio_Armor_02
+					Mio_Armor_03
+					Mio_Armor_04
+					Mio_Armor_05
+					Mio_Armor_06
+					Mio_Armor_07
+					Mio_Armor_08
+					Mio_Armor_09
+					Mio_Summer_01
+					Mio_Summer_02
+					Mio_Summer_03
+					Mio_Summer_04
+				}}
+	}
+        species = { 
+			add = {
+				portraits = {
+					Mio_01
+					Mio_02
+					Mio_03
+					Mio_04
+					Mio_05
+					Mio_06
+					Mio_07
+					Mio_Armor_01
+					Mio_Armor_02
+					Mio_Armor_03
+					Mio_Armor_04
+					Mio_Armor_05
+					Mio_Armor_06
+					Mio_Armor_07
+					Mio_Armor_08
+					Mio_Armor_09
+					Mio_Summer_01
+					Mio_Summer_02
+					Mio_Summer_03
+					Mio_Summer_04
+				}}}
+		pop = {
+			add = {
+				portraits = {
+					Mio_01
+					Mio_02
+					Mio_03
+					Mio_04
+					Mio_05
+					Mio_06
+					Mio_07
+					Mio_Armor_01
+					Mio_Armor_02
+					Mio_Armor_03
+					Mio_Armor_04
+					Mio_Armor_05
+					Mio_Armor_06
+					Mio_Armor_07
+					Mio_Armor_08
+					Mio_Armor_09
+					Mio_Summer_01
+					Mio_Summer_02
+					Mio_Summer_03
+					Mio_Summer_04
+				}}}
+                
+                #leader scope
+		leader = {
+			
+            add = {trigger = {always = yes}
+				portraits = {
+					Mio_01
+					Mio_02
+					Mio_03
+					Mio_04
+					Mio_05
+					Mio_06
+					Mio_07
+					Mio_Armor_01
+					Mio_Armor_02
+					Mio_Armor_03
+					Mio_Armor_04
+					Mio_Armor_05
+					Mio_Armor_06
+					Mio_Armor_07
+					Mio_Armor_08
+					Mio_Armor_09
+					Mio_Summer_01
+					Mio_Summer_02
+					Mio_Summer_03
+					Mio_Summer_04
+				}}}
+                
+		ruler = {
+            add = {trigger = {always = yes}
+				portraits = {
+					Mio_01
+					Mio_02
+					Mio_03
+					Mio_04
+					Mio_05
+					Mio_06
+					Mio_07
+					Mio_Armor_01
+					Mio_Armor_02
+					Mio_Armor_03
+					Mio_Armor_04
+					Mio_Armor_05
+					Mio_Armor_06
+					Mio_Armor_07
+					Mio_Armor_08
+					Mio_Armor_09
+					Mio_Summer_01
+					Mio_Summer_02
+					Mio_Summer_03
+					Mio_Summer_04
+				}}}}}

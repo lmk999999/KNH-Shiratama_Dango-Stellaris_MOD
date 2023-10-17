@@ -1,0 +1,118 @@
+ShiratamaDangoClass = {
+
+	# 物種分類
+	archetype = BIOLOGICAL
+
+	gender = no
+	randomized = no
+
+	# 種族判定
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+
+	portraits = {
+	"Kitsune"
+	"ShiratamaKitsune"
+	"KuromiNene"
+	"MomoyamaTsutsune"
+	"MikasayamaMimimi"
+	"Yukimi"
+	"HabutaeUsagi"
+	"Mio"
+	}
+
+	# 設定動畫
+	graphical_culture = state_motion_setting_01
+
+	# 設定音效
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+
+ShiratamaDangoUL = {
+
+	# 物種分類
+	archetype = BIOLOGICAL
+
+	gender = no
+	randomized = no
+
+	# 種族判定
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+
+	portraits = {
+	"Kitsune"
+	"ShiratamaDangoArmor"
+	"ShiratamaDangoSummer"
+	"ShiratamaKitsune_Unlimit"
+	"KuromiNene_Unlimit"
+	"MomoyamaTsutsune_Unlimit"
+	"HabutaeUsagi_Unlimit"
+	"Mio_Unlimit"
+	}
+
+	# 設定動畫
+	graphical_culture = state_motion_setting_01
+
+	# 設定音效
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+
+ShiratamaDangoSummer = {
+
+	# 物種分類
+	archetype = AQUATIC
+
+	playable = { always = yes }
+
+	gender = no
+	randomized = no
+	use_climate_preference = no
+	portrait_modding = no
+
+	# 種族判定
+	possible = { authority = { NOT = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE } } }
+
+	portraits = {
+	"Kitsune"
+	"ShiratamaDangoSummer"
+	"ShiratamaKitsune"
+	"KuromiNene"
+	"Mio_Summer"
+	}
+
+	# 設定動畫
+	graphical_culture = state_motion_setting_01
+
+	# 設定音效
+	move_pop_sound_effect = "moving_pop_confirmation"
+}
+
+NAVY = {
+
+	# 物種分類
+	archetype = MACHINE
+
+	playable = { always = yes }
+
+	gender = no
+	randomized = no
+	use_climate_preference = no
+	portrait_modding = no
+
+	# 種族判定
+	possible = { authority = { OR = { value = auth_machine_intelligence text = SPECIES_CLASS_MUST_USE_MACHINE_INTELLIGENCE } } }
+	possible_secondary = { always = no text = SECONDARY_SPECIES_CLASS_INVALID }
+
+	portraits = {
+	"Kitsune"
+	"ShiratamaDangoArmor"
+	"ShiratamaKitsune"
+	"KuromiNene"
+	"Mio_Armor"
+	}
+
+	# 設定動畫
+	graphical_culture = state_motion_setting_01
+
+	# 設定音效
+	move_pop_sound_effect = "moving_pop_confirmation"
+}

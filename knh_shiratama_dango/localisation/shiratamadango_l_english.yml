@@ -1,0 +1,41 @@
+﻿l_english:
+  FLAG_CATEGORY_PocoFox:0 "ShiratamaDango"
+
+  ShiratamaDangoClass:0 "ShiratamaDango"
+  ShiratamaDangoClass_desc:1 "A lovely species from the realm of fantasy."
+  NAVY:0 "NAVY"
+  NAVY_desc:1 "A lovely species from the realm of fantasy."
+  ShiratamaDangoSummer:0 "DangoSummer"
+  ShiratamaDangoSummer_desc:1 "A lovely species from the realm of fantasy."
+  ShiratamaDangoUL:0 "DangoFull"
+  ShiratamaDangoUL_desc:1 "A lovely species from the realm of fantasy."
+
+  name_lists_KITSUNE_NAME_LIST_EN :0 "Kizune English"
+  name_lists_KITSUNE_NAME_LIST_JP :0 "Kizune Japanese"
+  name_lists_KITSUNE_NAME_LIST_TC :0 "Kizune Chinese"
+
+  KITSUNE_NAME:0 "Kizune"
+  KITSUNE_NAME_STAR:0 "Kuromi Divine Tree"
+  KITSUNE_NAME_STARSYS:0 "Shiratama Home"
+
+  SHIRATAMA_KITSUNE_NAME:0 "Shiratama Kizune"
+  SHIRATAMA_KITSUNE_NAME_STAR:0 "Shiratama Divine Tree"
+  SHIRATAMA_KITSUNE_NAME_STARSYS:0 "Shiratama Home"
+
+  KUROMI_NENE_NAME:0 "Kuromi Nene"
+  KUROMI_NENE_NAME_STAR:0 "Kuromi Divine Tree"
+  KUROMI_NENE_NAME_STARSYS:0 "Kuromi Home"
+
+  MOMOYAMA_NAME:0 "Momoyama Tsutsune"
+  MIKASAYAMA_NAME:0 "Mikasayama Mimimi"
+  YUKIMI_NAME:0 "Yukimi"
+
+  USAGI_NAME:0 "Habutae Usagi"
+  USAGI_NAME_STAR:0 "Habutae Divine Tree"
+  USAGI_NAME_STARSYS:0 "Habutae Home"
+
+  NAVY_NAME_STAR:0 "NAVY Field 152"
+  NAVY_NAME_STARSYS:0 "NAVY Field 152 System"
+
+  MIO_NAME:0 "Mio"
+  

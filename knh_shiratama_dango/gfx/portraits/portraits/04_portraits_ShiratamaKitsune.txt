@@ -1,0 +1,122 @@
+portraits = {
+
+ShiratamaKitsune_00 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/01.dds"}
+
+ShiratamaKitsune_01 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/01.dds"}
+ShiratamaKitsune_02 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/02.dds"}
+ShiratamaKitsune_03 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/03.dds"}
+ShiratamaKitsune_04 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/04.dds"}
+ShiratamaKitsune_05 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/05.dds"}
+ShiratamaKitsune_06 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/06.dds"}
+ShiratamaKitsune_07 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/07.dds"}
+ShiratamaKitsune_08 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/08.dds"}
+ShiratamaKitsune_09 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/09.dds"}
+ShiratamaKitsune_10 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/10.dds"}
+ShiratamaKitsune_11 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/11.dds"}
+ShiratamaKitsune_12 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/12.dds"}
+ShiratamaKitsune_13 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/13.dds"}
+ShiratamaKitsune_14 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Original/14.dds"}
+
+}	
+
+portrait_groups = {
+	
+	ShiratamaKitsune = {	
+		default = ShiratamaKitsune_00
+        
+		game_setup = {
+			add = {
+				trigger = {ruler = { always = yes }}
+				portraits = {
+					ShiratamaKitsune_01
+					ShiratamaKitsune_02
+					ShiratamaKitsune_03
+					ShiratamaKitsune_04
+					ShiratamaKitsune_05
+					ShiratamaKitsune_06
+					ShiratamaKitsune_07
+					ShiratamaKitsune_08
+					ShiratamaKitsune_09
+					ShiratamaKitsune_10
+					ShiratamaKitsune_11
+					ShiratamaKitsune_12
+					ShiratamaKitsune_13
+					ShiratamaKitsune_14
+				}}
+	}
+        species = { 
+			add = {
+				portraits = {
+					ShiratamaKitsune_01
+					ShiratamaKitsune_02
+					ShiratamaKitsune_03
+					ShiratamaKitsune_04
+					ShiratamaKitsune_05
+					ShiratamaKitsune_06
+					ShiratamaKitsune_07
+					ShiratamaKitsune_08
+					ShiratamaKitsune_09
+					ShiratamaKitsune_10
+					ShiratamaKitsune_11
+					ShiratamaKitsune_12
+					ShiratamaKitsune_13
+					ShiratamaKitsune_14
+				}}}
+		pop = {
+			add = {
+				portraits = {
+					ShiratamaKitsune_01
+					ShiratamaKitsune_02
+					ShiratamaKitsune_03
+					ShiratamaKitsune_04
+					ShiratamaKitsune_05
+					ShiratamaKitsune_06
+					ShiratamaKitsune_07
+					ShiratamaKitsune_08
+					ShiratamaKitsune_09
+					ShiratamaKitsune_10
+					ShiratamaKitsune_11
+					ShiratamaKitsune_12
+					ShiratamaKitsune_13
+					ShiratamaKitsune_14
+				}}}
+                
+                #leader scope
+		leader = {
+			
+            add = {trigger = {always = yes}
+				portraits = {
+					ShiratamaKitsune_01
+					ShiratamaKitsune_02
+					ShiratamaKitsune_03
+					ShiratamaKitsune_04
+					ShiratamaKitsune_05
+					ShiratamaKitsune_06
+					ShiratamaKitsune_07
+					ShiratamaKitsune_08
+					ShiratamaKitsune_09
+					ShiratamaKitsune_10
+					ShiratamaKitsune_11
+					ShiratamaKitsune_12
+					ShiratamaKitsune_13
+					ShiratamaKitsune_14
+				}}}
+                
+		ruler = {
+            add = {trigger = {always = yes}
+				portraits = {
+					ShiratamaKitsune_01
+					ShiratamaKitsune_02
+					ShiratamaKitsune_03
+					ShiratamaKitsune_04
+					ShiratamaKitsune_05
+					ShiratamaKitsune_06
+					ShiratamaKitsune_07
+					ShiratamaKitsune_08
+					ShiratamaKitsune_09
+					ShiratamaKitsune_10
+					ShiratamaKitsune_11
+					ShiratamaKitsune_12
+					ShiratamaKitsune_13
+					ShiratamaKitsune_14
+				}}}}}

@@ -1,0 +1,100 @@
+portraits = {
+
+ShiratamaDango_Armor_00 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Armor/00.dds"}
+
+ShiratamaKitsune_Armor_01 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Armor/01.dds"}
+ShiratamaKitsune_Armor_02 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Armor/02.dds"}
+ShiratamaKitsune_Armor_03 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Armor/03.dds"}
+ShiratamaKitsune_Armor_04 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Armor/04.dds"}
+ShiratamaKitsune_Armor_05 = {texturefile = "gfx/models/portraits/ShiratamaKitsune/Armor/05.dds"}
+
+KuromiNene_Armor_01 = {texturefile = "gfx/models/portraits/KuromiNene/Armor/01.dds"}
+KuromiNene_Armor_02 = {texturefile = "gfx/models/portraits/KuromiNene/Armor/02.dds"}
+KuromiNene_Armor_03 = {texturefile = "gfx/models/portraits/KuromiNene/Armor/03.dds"}
+
+MomoyamaTsutsune_Armor_01 = {texturefile = "gfx/models/portraits/MomoyamaTsutsune/Armor/01.dds"}
+
+}	
+
+
+portrait_groups = {
+	
+	ShiratamaDangoArmor = {	
+		default = ShiratamaDango_Armor_00
+        
+		game_setup = {
+			add = {
+				trigger = {ruler = { always = yes }}
+				portraits = {
+					ShiratamaDango_Armor_00
+					ShiratamaKitsune_Armor_01
+					ShiratamaKitsune_Armor_02
+					ShiratamaKitsune_Armor_03
+					ShiratamaKitsune_Armor_04
+					ShiratamaKitsune_Armor_05
+					KuromiNene_Armor_01
+					KuromiNene_Armor_02
+					KuromiNene_Armor_03
+					MomoyamaTsutsune_Armor_01
+				}}
+	}
+        species = { 
+			add = {
+				portraits = {
+					ShiratamaDango_Armor_00
+					ShiratamaKitsune_Armor_01
+					ShiratamaKitsune_Armor_02
+					ShiratamaKitsune_Armor_03
+					ShiratamaKitsune_Armor_04
+					ShiratamaKitsune_Armor_05
+					KuromiNene_Armor_01
+					KuromiNene_Armor_02
+					KuromiNene_Armor_03
+					MomoyamaTsutsune_Armor_01
+				}}}
+		pop = {
+			add = {
+				portraits = {
+					ShiratamaDango_Armor_00
+					ShiratamaKitsune_Armor_01
+					ShiratamaKitsune_Armor_02
+					ShiratamaKitsune_Armor_03
+					ShiratamaKitsune_Armor_04
+					ShiratamaKitsune_Armor_05
+					KuromiNene_Armor_01
+					KuromiNene_Armor_02
+					KuromiNene_Armor_03
+					MomoyamaTsutsune_Armor_01
+				}}}
+                
+                #leader scope
+		leader = {
+			
+            add = {trigger = {always = yes}
+				portraits = {
+					ShiratamaDango_Armor_00
+					ShiratamaKitsune_Armor_01
+					ShiratamaKitsune_Armor_02
+					ShiratamaKitsune_Armor_03
+					ShiratamaKitsune_Armor_04
+					ShiratamaKitsune_Armor_05
+					KuromiNene_Armor_01
+					KuromiNene_Armor_02
+					KuromiNene_Armor_03
+					MomoyamaTsutsune_Armor_01
+				}}}
+                
+		ruler = {
+            add = {trigger = {always = yes}
+				portraits = {
+					ShiratamaDango_Armor_00
+					ShiratamaKitsune_Armor_01
+					ShiratamaKitsune_Armor_02
+					ShiratamaKitsune_Armor_03
+					ShiratamaKitsune_Armor_04
+					ShiratamaKitsune_Armor_05
+					KuromiNene_Armor_01
+					KuromiNene_Armor_02
+					KuromiNene_Armor_03
+					MomoyamaTsutsune_Armor_01
+				}}}}}

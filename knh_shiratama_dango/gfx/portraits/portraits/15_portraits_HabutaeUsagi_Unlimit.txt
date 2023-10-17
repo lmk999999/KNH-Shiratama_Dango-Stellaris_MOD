@@ -1,0 +1,57 @@
+portraits = {
+
+HabutaeUsagi_00 = {texturefile = "gfx/models/portraits/HabutaeUsagi/Original/01.dds"}
+
+HabutaeUsagi_01 = {texturefile = "gfx/models/portraits/HabutaeUsagi/Original/01.dds"}
+HabutaeUsagi_02 = {texturefile = "gfx/models/portraits/HabutaeUsagi/Original/02.dds"}
+HabutaeUsagi_03 = {texturefile = "gfx/models/portraits/HabutaeUsagi/Original/S03.dds"}
+
+
+}	
+
+portrait_groups = {
+	
+	HabutaeUsagi_Unlimit = {	
+		default = HabutaeUsagi_00
+        
+		game_setup = {
+			add = {
+				trigger = {ruler = { always = yes }}
+				portraits = {
+					HabutaeUsagi_01
+					HabutaeUsagi_02
+					HabutaeUsagi_03
+				}}
+	}
+        species = { 
+			add = {
+				portraits = {
+					HabutaeUsagi_01
+					HabutaeUsagi_02
+					HabutaeUsagi_03
+				}}}
+		pop = {
+			add = {
+				portraits = {
+					HabutaeUsagi_01
+					HabutaeUsagi_02
+					HabutaeUsagi_03
+				}}}
+                
+                #leader scope
+		leader = {
+			
+            add = {trigger = {always = yes}
+				portraits = {
+					HabutaeUsagi_01
+					HabutaeUsagi_02
+					HabutaeUsagi_03
+				}}}
+                
+		ruler = {
+            add = {trigger = {always = yes}
+				portraits = {
+					HabutaeUsagi_01
+					HabutaeUsagi_02
+					HabutaeUsagi_03
+				}}}}}

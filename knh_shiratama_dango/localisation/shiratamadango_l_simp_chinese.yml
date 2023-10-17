@@ -1,0 +1,41 @@
+﻿l_simp_chinese:
+  FLAG_CATEGORY_PocoFox:0 "白玉團子"
+  
+  ShiratamaDangoClass:0 "白玉團子"
+  ShiratamaDangoClass_desc:1 "一個可愛的物種，來自於虛幻的國度。"
+  NAVY:0 "NAVY"
+  NAVY_desc:1 "一個可愛的物種，來自於虛幻的國度。"
+  ShiratamaDangoSummer:0 "白玉夏日"
+  ShiratamaDangoSummer_desc:1 "一個可愛的物種，來自於虛幻的國度。"
+  ShiratamaDangoUL:0 "白玉團子全員"
+  ShiratamaDangoUL_desc:1 "一個可愛的物種，來自於虛幻的國度。"
+
+  name_lists_KITSUNE_NAME_LIST_EN :0 "狐 英文"
+  name_lists_KITSUNE_NAME_LIST_JP :0 "狐 日文"
+  name_lists_KITSUNE_NAME_LIST_TC :0 "狐 中文"
+
+  KITSUNE_NAME:0 "狐"
+  KITSUNE_NAME_STAR:0 "黑蜜大樹"
+  KITSUNE_NAME_STARSYS:0 "黑蜜家園"
+
+  SHIRATAMA_KITSUNE_NAME:0 "白玉狐"
+  SHIRATAMA_KITSUNE_NAME_STAR:0 "白玉大樹"
+  SHIRATAMA_KITSUNE_NAME_STARSYS:0 "白玉家園"
+
+  KUROMI_NENE_NAME:0 "黑蜜音音"
+  KUROMI_NENE_NAME_STAR:0 "黑蜜大樹"
+  KUROMI_NENE_NAME_STARSYS:0 "黑蜜家園"
+
+  MOMOYAMA_NAME:0 "桃山鈴音"
+  MIKASAYAMA_NAME:0 "三笠山耳見"
+  YUKIMI_NAME:0 "雪見"
+
+  USAGI_NAME:0 "羽二重兔"
+  USAGI_NAME_STAR:0 "羽二重大樹"
+  USAGI_NAME_STARSYS:0 "羽二重家園"
+
+  NAVY_NAME_STAR:0 "NAVY 區域 152 號"
+  NAVY_NAME_STARSYS:0 "NAVY 區域 152 號星系"
+
+  MIO_NAME:0 "澪"
+  

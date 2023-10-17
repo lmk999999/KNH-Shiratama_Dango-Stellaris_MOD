@@ -1,0 +1,75 @@
+portraits = {
+
+Yukimi_00 = {texturefile = "gfx/models/portraits/Yukimi/Original/01.dds"}
+
+Yukimi_01 = {texturefile = "gfx/models/portraits/Yukimi/Original/01.dds"}
+Yukimi_02 = {texturefile = "gfx/models/portraits/Yukimi/Original/02.dds"}
+Yukimi_03 = {texturefile = "gfx/models/portraits/Yukimi/Original/03.dds"}
+Yukimi_04 = {texturefile = "gfx/models/portraits/Yukimi/Original/04.dds"}
+Yukimi_05 = {texturefile = "gfx/models/portraits/Yukimi/Original/05.dds"}
+Yukimi_06 = {texturefile = "gfx/models/portraits/Yukimi/Original/06.dds"}
+
+
+}	
+
+portrait_groups = {
+	
+	Yukimi = {	
+		default = Yukimi_00
+        
+		game_setup = {
+			add = {
+				trigger = {ruler = { always = yes }}
+				portraits = {
+					Yukimi_01
+					Yukimi_02
+					Yukimi_03
+					Yukimi_04
+					Yukimi_05
+					Yukimi_06
+				}}
+	}
+        species = { 
+			add = {
+				portraits = {
+					Yukimi_01
+					Yukimi_02
+					Yukimi_03
+					Yukimi_04
+					Yukimi_05
+					Yukimi_06
+				}}}
+		pop = {
+			add = {
+				portraits = {
+					Yukimi_01
+					Yukimi_02
+					Yukimi_03
+					Yukimi_04
+					Yukimi_05
+					Yukimi_06
+				}}}
+                
+                #leader scope
+		leader = {
+			
+            add = {trigger = {always = yes}
+				portraits = {
+					Yukimi_01
+					Yukimi_02
+					Yukimi_03
+					Yukimi_04
+					Yukimi_05
+					Yukimi_06
+				}}}
+                
+		ruler = {
+            add = {trigger = {always = yes}
+				portraits = {
+					Yukimi_01
+					Yukimi_02
+					Yukimi_03
+					Yukimi_04
+					Yukimi_05
+					Yukimi_06
+				}}}}}

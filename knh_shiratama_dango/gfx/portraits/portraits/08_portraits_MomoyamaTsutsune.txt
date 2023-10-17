@@ -1,0 +1,63 @@
+portraits = {
+
+MomoyamaTsutsune_00 = {texturefile = "gfx/models/portraits/MomoyamaTsutsune/Original/01.dds"}
+
+MomoyamaTsutsune_01 = {texturefile = "gfx/models/portraits/MomoyamaTsutsune/Original/01.dds"}
+MomoyamaTsutsune_02 = {texturefile = "gfx/models/portraits/MomoyamaTsutsune/Original/02.dds"}
+MomoyamaTsutsune_03 = {texturefile = "gfx/models/portraits/MomoyamaTsutsune/Original/03.dds"}
+MomoyamaTsutsune_04 = {texturefile = "gfx/models/portraits/MomoyamaTsutsune/Original/04.dds"}
+
+
+}	
+
+portrait_groups = {
+	
+	MomoyamaTsutsune = {	
+		default = MomoyamaTsutsune_00
+        
+		game_setup = {
+			add = {
+				trigger = {ruler = { always = yes }}
+				portraits = {
+					MomoyamaTsutsune_01
+					MomoyamaTsutsune_02
+					MomoyamaTsutsune_03
+					MomoyamaTsutsune_04
+				}}
+	}
+        species = { 
+			add = {
+				portraits = {
+					MomoyamaTsutsune_01
+					MomoyamaTsutsune_02
+					MomoyamaTsutsune_03
+					MomoyamaTsutsune_04
+				}}}
+		pop = {
+			add = {
+				portraits = {
+					MomoyamaTsutsune_01
+					MomoyamaTsutsune_02
+					MomoyamaTsutsune_03
+					MomoyamaTsutsune_04
+				}}}
+                
+                #leader scope
+		leader = {
+			
+            add = {trigger = {always = yes}
+				portraits = {
+					MomoyamaTsutsune_01
+					MomoyamaTsutsune_02
+					MomoyamaTsutsune_03
+					MomoyamaTsutsune_04
+				}}}
+                
+		ruler = {
+            add = {trigger = {always = yes}
+				portraits = {
+					MomoyamaTsutsune_01
+					MomoyamaTsutsune_02
+					MomoyamaTsutsune_03
+					MomoyamaTsutsune_04
+				}}}}}

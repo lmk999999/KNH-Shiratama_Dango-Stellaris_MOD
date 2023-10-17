@@ -1,0 +1,80 @@
+portraits = {
+
+KuromiNene_00 = {texturefile = "gfx/models/portraits/KuromiNene/Original/06.dds"}
+
+KuromiNene_01 = {texturefile = "gfx/models/portraits/KuromiNene/Original/01.dds"}
+KuromiNene_02 = {texturefile = "gfx/models/portraits/KuromiNene/Original/02.dds"}
+KuromiNene_03 = {texturefile = "gfx/models/portraits/KuromiNene/Original/03.dds"}
+KuromiNene_04 = {texturefile = "gfx/models/portraits/KuromiNene/Original/04.dds"}
+KuromiNene_05 = {texturefile = "gfx/models/portraits/KuromiNene/Original/05.dds"}
+KuromiNene_06 = {texturefile = "gfx/models/portraits/KuromiNene/Original/06.dds"}
+KuromiNene_07 = {texturefile = "gfx/models/portraits/KuromiNene/Original/07.dds"}
+
+}	
+
+portrait_groups = {
+	
+	KuromiNene = {	
+		default = KuromiNene_00
+        
+		game_setup = {
+			add = {
+				trigger = {ruler = { always = yes }}
+				portraits = {
+					KuromiNene_01
+					KuromiNene_02
+					KuromiNene_03
+					KuromiNene_04
+					KuromiNene_05
+					KuromiNene_06
+					KuromiNene_07
+				}}
+	}
+        species = { 
+			add = {
+				portraits = {
+					KuromiNene_01
+					KuromiNene_02
+					KuromiNene_03
+					KuromiNene_04
+					KuromiNene_05
+					KuromiNene_06
+					KuromiNene_07
+				}}}
+		pop = {
+			add = {
+				portraits = {
+					KuromiNene_01
+					KuromiNene_02
+					KuromiNene_03
+					KuromiNene_04
+					KuromiNene_05
+					KuromiNene_06
+					KuromiNene_07
+				}}}
+                
+                #leader scope
+		leader = {
+			
+            add = {trigger = {always = yes}
+				portraits = {
+					KuromiNene_01
+					KuromiNene_02
+					KuromiNene_03
+					KuromiNene_04
+					KuromiNene_05
+					KuromiNene_06
+					KuromiNene_07
+				}}}
+                
+		ruler = {
+            add = {trigger = {always = yes}
+				portraits = {
+					KuromiNene_01
+					KuromiNene_02
+					KuromiNene_03
+					KuromiNene_04
+					KuromiNene_05
+					KuromiNene_06
+					KuromiNene_07
+				}}}}}

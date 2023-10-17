@@ -1,0 +1,239 @@
+### Created by lmk999999
+
+KITSUNE_NAME_LIST_EN = {
+	randomized = yes
+	category = "Mammalian"
+	ship_names = {
+
+		generic = {
+			Keijomaru Pyongyangmaru Seikaimaru Ukishimamaru Bushomaru Choshamaru Kongozanmaru Chohakusanmaru Kasagimaru 
+               Santomaru Hokubomaru Shinkeimaru Seikeimaru Moruimaru Shoyomaru Katsuyomaru Fukuyamamaru Daikomaru Chiyomaru
+		}
+
+		corvette = {
+		}
+
+		destroyer = {
+			Minekaze Sawakaze Okikaze Nadeshiko Hagikaze Hibiki Shioikaze Akikaze Yuukaze Hatakaze Hokaze Namikaze
+               Numakaze Kamikaze Asakaze Harukaze Matsukaze Hatakaze Yukikaze Tenkaze Tokitsukaze Urakaze Isoikaze Hamakaze
+               Tanikaze Nofun Arashi Hagikaze Maikaze Akigumo Shimakaze
+		}
+
+		cruiser = {
+			Yuubari Mogami Mikuma Suzuya Kumano Katori Kashima Kashii Kasuga Kashiwara Agano Noshiro Sakawa Oyodo 
+		}
+
+		battleship = {
+			Yamato Musashi Shinano Kai Kii Owari Harima Izumo Satsuma Aki Kaga Settsu Kawachi Fusou Yamashiro
+               Kongou Hiei Haruna Kirishima Amagi Akagi Atago Takao Souryuu Hiryuu Shoukaku Zuikaku Houshou
+               Hiyou Chitose Chiyoda Ryuujou Ryuuhou Shinano Hiryuu Hiyou
+		}
+
+		titan = {
+			Izanagi Izanami Amaterasu Tsukuyomi Hikohohodemi Susanoo Kagutsuchi
+		}
+
+		colossus = {
+			Izanagi Izanami Amaterasu Tsukuyomi Hikohohodemi Susanoo Kagutsuchi
+		}
+
+		science = {
+		}
+
+		colonizer = {
+		}
+
+		constructor = {
+		}
+
+		transport = {
+		}
+
+		military_station_small = {
+		}
+
+		ion_cannon = {
+			Izanagi Izanami Amaterasu Tsukuyomi Hikohohodemi Susanoo Kagutsuchi
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+				ShiratamaFleet KuromiFleet HabutaeFleet MomoyamaFleet MikasayamaFleet MoriFleet
+			}
+		sequential_name = "No.%O% Fleet"
+	}
+
+	army_names = {
+
+		machine_defense = {
+			sequential_name = "%O% Machine Defense"
+		}
+
+		machine_assault_1 = {
+			sequential_name = "%O% Machine Assault I"
+		}
+
+		machine_assault_2 = {
+			sequential_name = "%O% Machine Assault II"
+		}
+
+		machine_assault_3 = {
+			sequential_name = "%O% Machine Assault III"
+		}
+
+		defense_army = {
+			sequential_name = "%O% Defense Army"
+		}
+
+		assault_army = {
+			sequential_name = "%O% Assault Army"
+		}
+
+		slave_army = {
+			sequential_name = "%O% Slave Army"
+		}
+
+		undead_army = {
+			sequential_name = "%O% Undead Army"
+		}
+
+		clone_army = { 
+			sequential_name = "%O% Clone Army"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% Robotic Army"
+		}
+
+		robotic_defense_army = {
+			sequential_name = "%O% Robotic_defense Army"
+		}
+
+		psionic_army = { 
+			sequential_name = "%O% Psionic Army"
+		}
+
+		xenomorph_army = {
+			sequential_name = "%O% Xenomorph Army"
+		}
+
+		gene_warrior_army = {
+			sequential_name = "%O% Gene warrior Army"
+		}
+
+		occupation_army = {
+			sequential_name = "%O% Occupation Army"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "%O% Robotic occupation Army"
+		}
+
+		primitive_army = {
+			sequential_name = "%O% Primitive Army"
+		}
+		industrial_army = {
+			sequential_name = "%O% Industrial Army"
+		}
+		postatomic_army = {
+			sequential_name = "%O% Postatomic Army"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				ShiratamaDivineTree KuromiDivineTree HabutaeDivineTree MomoyamaDivineTree MikasayamaDivineTree MoriDivineTree
+				}
+		}
+
+		pc_desert = {
+			names = {
+			}
+		}
+
+		pc_tropical = {
+			names = {
+			}
+		}
+
+		pc_arid = {
+			names = {
+			}
+		}
+
+		pc_continental = {
+			names = {
+			}
+		}
+
+		pc_ocean = {
+			names = {
+			}
+		}
+
+		pc_tundra = {
+			names = {
+			}
+		}
+
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				# ShiratamaKitsune KuromiNene MomoyamaTsutsune Yukimi HabutaeUsagi MikasayamaMimimi Ichika Suzu Aoba
+				}
+
+			# Always combined with a second name
+			first_names_male = {
+				Daisuke Shohei Ryo Tatsuya Naoto Naoki Daichi Yuta Ryota Kento Kazuya Yuta
+                    Takuya Daisuke Kentaro Kyohei Takahiro Yasuhei Kosuke Daiki Takuma Hirokazu
+                    Yuuki Kousuke Yosuke Naoya Akira Takuya Yuuki Tatsuya
+				Jinemon
+				}
+			first_names_female = {
+				Haruna Sakura Misaki Aoi Miu Rin Nanami Yui Hina Honoka Riko
+                    Aruna Koharu Hinata Mei Sachi Mika Hiyori Yuzaki Shinori Kanako
+                    Tomomi Toshiko Yurika Suzuka Haruno Haruka Haruki Keiko Midori Koyu
+                    Reki Suruga Hidagi Asuka Wa Shinobu Kozue Satsuki Haru Nozomi Mari Yukiho Makie
+				Kitsune Nene Tsutsune Yukimi Usagi Mimimi Ichika Suzu Aoba
+				}
+
+			# Always combined with a first name
+			second_names = {
+				Shiratama Kuromi Habutae Momoyama Mikasayama Mori
+				}
+
+			regnal_first_names = {
+				Haruna Sakura Misaki Aoi Miu Rin Nanami Yui Hina Honoka Riko
+                    Aruna Koharu Hinata Mei Sachi Mika Hiyori Yuzaki Shinori Kanako
+                    Tomomi Toshiko Yurika Suzuka Haruno Haruka Haruki Keiko Midori Koyu
+                    Reki Suruga Hidagi Asuka Wa Shinobu Kozue Satsuki Haru Nozomi Mari Yukiho Makie
+				Kitsune Nene Tsutsune Yukimi Usagi Mimimi Ichika Suzu Aoba
+				}
+
+			regnal_second_names = {
+				Shiratama Kuromi Habutae
+				}
+		}
+	}
+}
