@@ -27,5 +27,5 @@
 - 內建中文（繁體）、英文、日文。
 
 ## 製作工具
-[Reference material](https://steamcommunity.com/sharedfiles/filedetails/?id=1321800257)
-[psd-to-dds](https://www.aconvert.com/tw/image/psd-to-dds/)
+- [Reference material](https://steamcommunity.com/sharedfiles/filedetails/?id=1321800257)
+- [psd-to-dds](https://www.aconvert.com/tw/image/psd-to-dds/)
